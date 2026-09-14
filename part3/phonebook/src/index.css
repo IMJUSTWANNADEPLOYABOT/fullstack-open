@@ -1,0 +1,9 @@
+.notify {
+    font-size: 20px;
+    background-color: green;
+}
+
+.error {
+    font-size: 20px;
+    background-color: red;
+}
